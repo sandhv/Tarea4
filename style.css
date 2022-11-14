@@ -22,7 +22,7 @@ html , body {
     width: 450px;
     height: 250px;
     border-radius: 9px;
-    background-color: yellow;
+    background-color:  rgb(250, 219, 1);;
 }
 
 .puntosArriba {
@@ -38,8 +38,17 @@ html , body {
 .contenido {
     width: 450px;
     height: 180px;
-    background-color: red;
+    
+    display: flex;
+    justify-content: flex-end;
+    
 }
+
+.contenido .imagen {
+    padding-right: 24px;
+}
+
+
 
 .puntosAbajo {
     display: flex;
