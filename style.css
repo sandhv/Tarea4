@@ -28,7 +28,6 @@ html , body {
 .puntosArriba {
     display: flex;
     padding-right: 16px;
-
 }
 .arriba{
     width: 30px; 
@@ -41,7 +40,11 @@ html , body {
     
     display: flex;
     justify-content: flex-end;
-    
+    padding-left: 18px;
+}
+
+.textos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .contenido .imagen {
