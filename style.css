@@ -1,6 +1,8 @@
 html , body {
     margin: 0;
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .principal {
@@ -21,6 +23,31 @@ html , body {
     height: 250px;
     border-radius: 9px;
     background-color: yellow;
+}
+
+.puntosArriba {
+    display: flex;
+    padding-right: 16px;
+
+}
+.arriba{
+    width: 30px; 
+    margin-left: auto;
+}
+
+.contenido {
+    width: 450px;
+    height: 180px;
+    background-color: red;
+}
+
+.puntosAbajo {
+    display: flex;
+    padding-left: 16px;
+}
+.abajo{
+    width: 30px; 
+    margin-right: auto;
 }
 
 .azul {
