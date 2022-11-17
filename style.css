@@ -389,3 +389,99 @@ hr {
 }
 
 /*--------FIN GRUPO3-----------*/
+
+/* Tarjeta 3 */
+.tarjeta3 {
+    background-color: hsla(135, 0%, 81%, 1);
+    width: 600px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px 10px;
+}
+
+.marco2 {
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    border-radius: 9px;
+    display: flex;
+}
+
+.perfil {
+    width: 80px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.perfil img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.content {
+    width: 520px;
+    height: 200px;
+}
+
+.header {
+    width: 520px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.header p {
+    margin: 0; 
+    font-family: sans-serif;   
+}
+
+.p1 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.p2 {
+    color: gray;
+    font-size: small;   
+}
+
+.p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.p4 {
+    color: gray;
+    word-spacing: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.p5 {
+    color: gray;
+    display: inline-block;
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+.p6 {
+    color: gray;
+    display: inline-block;
+    margin: 0;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+
+.p7 {
+    color: gray;
+    display: inline-block;
+    margin: 0;
+    padding-left: 220px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
