@@ -134,6 +134,11 @@ html , body {
 hr {
     margin: 0;
     margin-bottom: 4px;
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
 }
 
 /*HERMANOS*/
@@ -485,3 +490,4 @@ hr {
     font-size: 14px;
     font-family: sans-serif;
 }
+
